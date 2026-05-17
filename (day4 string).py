@@ -1,3 +1,4 @@
+#string concatenation
 first_name="deekshitha"
 last_name="darshan"
 full_name=first_name + " " + last_name #for space
