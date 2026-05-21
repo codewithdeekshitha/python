@@ -23,8 +23,8 @@ del birthday["deekshitha"] #another way of deleting
 print(birthday)
 
 #dictionary methods
-print(birthday.keys())
-print(birthday.values())
+print(birthday.keys()) #to get only keys
+print(birthday.values()) #to get only valuess
 print(birthday.items())
 
 new_item={"bed": " used to sleep"}
@@ -42,4 +42,4 @@ d2={
      "weight": 2,
      "price": 150
  }
-print(f"total weight:{d1["weight"]+d2["weight"]}")
+print(f"total weight:{d1["weight"]+d2["weight"]}")#to get the total weight
