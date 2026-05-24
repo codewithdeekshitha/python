@@ -19,11 +19,11 @@ print(items.count("bru")) #how many times the item ios repeated
 l=[1,2,4,3,5,6]
 print(l[0:5:2]) #[start:stop:step]
 #same as string slicing
-print(len(l))
-print(sorted(l))
-print(sum(l))
+print(len(l)) #prints how many characters are there in l
+print(sorted(l)) #prints the sorther elemets in ascending order
+print(sum(l)) #prints the sum of l
 
 #nested list
-m=[[0,1],[2,3]]
+m=[[0,1],[2,3]] #matrix format 
 print(m[1][0])
 
