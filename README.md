@@ -1,65 +1,59 @@
-Python Learning Journey
+Python Learning Journey 🚀
 
-Welcome to my Python learning repository.
-This repository contains the programs and concepts I practiced while learning Python day by day.
+Hi, I'm Deekshitha 👋
+Currently learning Python step by step and uploading my daily practice programs to GitHub.
 
-Topics Learned
+Topics Learned So Far
 
 Day 1
 
-- Python Basics
+- Python basics
+- Print statements
 - Variables
-- Input and Output
 
 Day 2
 
-- Data Types
-- Type Conversion
+- Data types
+- Type conversion
 
 Day 3
 
-- Basic Python Programs
+- Operators in Python
 
 Day 4
 
-- String Concatenation
-- String Repetition
-- String Methods
-- String Slicing
-- Escape Sequences
+- Strings
+- String methods
+- String slicing
 
 Day 5
 
-- Arithmetic Operators
-- Assignment Operators
-- Comparison Operators
-- Logical Operators
-- Membership Operators
-- Bitwise Operators
+- Conditional statements
+- if, elif, else
 
 Day 6
 
-- Lists in Python
-- List Methods
-- List Slicing
-- Nested Lists
+- Lists
+- List slicing
+- Nested lists
 
-Programs Included
+Day 7
 
-- swapping.py
-- lists.py
-- day3.py
-- string programs
-- operator programs
+- Tuples
+- Sets
+- Set methods
+- Union, intersection, difference
 
-Purpose
+Day 8
 
-This repository is created to improve my Python programming skills through daily practice and hands-on learning.
+- Dictionaries
+- Dictionary methods
+- keys()
+- values()
+- Updating and removing items
 
-Language Used
+Goal 🎯
 
-Python
+To become strong in Python programming, contribute to open source, and grow as a software developer.
 
-Author
-
-Deekshitha
+“Small progress every day leads to big success.” ✨
