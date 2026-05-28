@@ -13,13 +13,13 @@ while is_failed :
     
 print("better luck next time")    
 
-'''is_failed=True
+is_failed=True
 i=1
 while is_failed and i<=10:
     print(f"try {i} ")
     i=i+1 
 print("better luck next time") 
-'''   
+ 
 
 i=0
 while i<=10:
