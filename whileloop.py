@@ -1,9 +1,9 @@
 #while loop
 
-is_failed=True
+is_failed=True #boolean value
 i=1 #attempt 
 while is_failed :
-    if i%2!=0:
+    if i%2!=0: #if it is not even
         i=i+1
         continue #does not execute next set of code,goes back to the loop
     print(f"try {i} ")
@@ -15,7 +15,7 @@ print("better luck next time")
 
 is_failed=True
 i=1
-while is_failed and i<=10:
+while is_failed and i<=10: #logical in while loop
     print(f"try {i} ")
     i=i+1 
 print("better luck next time") 
@@ -26,9 +26,9 @@ while i<=10:
     x=0
     while x<i:
         print("deek",end=" ")
-        x+=1
+        x+=1 #x=x+1
 print("")  
-i+=1
+i+=1 #i=i+1
 
 pin="2024"
 trials=1
