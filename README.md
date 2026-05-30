@@ -1,59 +1,46 @@
 Python Learning Journey 🚀
 
-Hi, I'm Deekshitha 👋
-Currently learning Python step by step and uploading my daily practice programs to GitHub.
+About Me
 
-Topics Learned So Far
+I am currently learning Python programming and practicing coding every day to improve my problem-solving skills.
 
-Day 1
+Topics Learned
 
-- Python basics
-- Print statements
-- Variables
+Day 1 - Day 8
 
-Day 2
-
-- Data types
-- Type conversion
-
-Day 3
-
-- Operators in Python
-
-Day 4
-
-- Strings
-- String methods
-- String slicing
-
-Day 5
-
-- Conditional statements
-- if, elif, else
-
-Day 6
-
-- Lists
-- List slicing
-- Nested lists
-
-Day 7
-
-- Tuples
-- Sets
-- Set methods
-- Union, intersection, difference
-
-Day 8
-
+- Variables and Data Types
+- Input and Output
+- Arithmetic Operators
+- Comparison Operators
+- Conditional Statements (if, else, elif)
+- Logical Operators
 - Dictionaries
-- Dictionary methods
-- keys()
-- values()
-- Updating and removing items
+- Dictionary Methods
+- Practice Programs using Dictionaries
 
-Goal 🎯
+Day 9
 
-To become strong in Python programming, contribute to open source, and grow as a software developer.
+- if-else Statements
+- elif Statements
+- Logical Operators in Conditions
 
-“Small progress every day leads to big success.” ✨
+Day 10
+
+- while Loop
+- Nested while Loop
+- if Statement inside while Loop
+- break Statement
+- continue Statement
+
+Projects & Practice
+
+- Dictionary Programs
+- Conditional Statement Programs
+- Loop-Based Programs
+- GitHub Upload Practice
+
+Goal
+
+To become proficient in Python programming by practicing consistently and building real-world projects.
+
+⭐ Learning Python one day at a time.
