@@ -1,3 +1,5 @@
+#for loop
+
 l=[1,23,43,534,32]
 total = 0
 for num in l:
