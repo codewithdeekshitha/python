@@ -4,7 +4,7 @@ l=[1,23,43,534,32]
 total = 0
 for num in l:
     print(total,end=" ")
-    total+=num
+    total+=num #total=total+num
 print(total)    
     
 l=[1,23,43,534,32]
@@ -22,7 +22,7 @@ for student,marks in d.items(): #items is used when u want both keys and values
 students=["deekshitha","aishu","darshan"]
 marks=[30,40,50]
 student_marks={}
-for index,student in enumerate(students):
+for index,student in enumerate(students): #enumerate prints the index as well as the value of the index 
     student_marks[student]=marks[index]
 print(student_marks)    
 
