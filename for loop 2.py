@@ -31,7 +31,7 @@ students=["deekshitha","aishu","darshan"]
 marks=[30,40,50]
 student_marks={}
 for i in range(3):
-    student_marks[students[i]] = marks[0]
+    student_marks[students[i]] = marks[i]
 print(student_marks) 
 
 #list comprehension    
