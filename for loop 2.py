@@ -47,7 +47,7 @@ print(dl)
 
 #list comprehension on strings
 l=["deekshitha","darshan"]
-cl=[x[1] for x in l]
+cl=[x[1] for x in l] #to access the letter of that position
 print(cl)
 
 #dictionary comprehnsion
