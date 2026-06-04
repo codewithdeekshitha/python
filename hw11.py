@@ -1,12 +1,12 @@
 #Write a for loop that prints all multiples of 3 between 1 and 30.
 
 for i in range(1,31):
-    print(f"3X{i}={3*i}")
+    print(f"3X{i}={3*i}") # prints 3 tables
     
 #Write a program using a for loop that calculates the sum of numbers from 1 to 10.
 
 sum=0
-for i in range(1,11):
+for i in range(1,11): #from 1 to 10
     sum+=i
 print("sum=",sum)      
 
