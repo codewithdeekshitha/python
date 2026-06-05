@@ -5,7 +5,7 @@ if x==10:
     print("yes x is 10")
     
 x=19
-if x%2==0:
+if x%2==0: #if it is even
     print("x is an even number")
 else:
     print("x is an odd number") #o/p=x is odd number
