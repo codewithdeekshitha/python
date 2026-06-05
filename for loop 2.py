@@ -1,4 +1,4 @@
-#for loop
+#for loop in lists
 
 l=[1,23,43,534,32]
 total = 0
@@ -10,10 +10,10 @@ print(total)
 l=[1,23,43,534,32]
 dl=[]
 for num in l:
-    dl.append(num*2)
+    dl.append(num*2) #append=list method used to add one item at the end of a list
     print(dl)    
 
-d={"aishu": 23,"deek":24, "darshi": 25}
+d={"aishu": 23,"deek":24, "darshi": 25} #for loop in dictionary
 for student,marks in d.items(): #items is used when u want both keys and values
     print(f"{student} = {marks}")
 
