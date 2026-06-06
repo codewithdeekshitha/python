@@ -42,4 +42,4 @@ d2={
      "weight": 2,
      "price": 150
  }
-print(f"total weight:{d1["weight"]+d2["weight"]}")#to get the total weight
+print(f"total weight:{d1["weight"]+d2["weight"]}")#to get the total weight from d1 and d2
