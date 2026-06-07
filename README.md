@@ -44,3 +44,50 @@ Goal
 To become proficient in Python programming by practicing consistently and building real-world projects.
 
 ⭐ Learning Python one day at a time.
+
+
+📚 Learning Journey
+
+Day 14 of Learning Python
+
+- Learned Python Debugging
+- Used breakpoints to pause program execution
+- Traced code line by line
+- Inspected variables during debugging
+- Practiced debugging in VS Code
+
+Previously Learned
+
+- Variables and Data Types
+- Conditional Statements
+- Loops (for and while)
+- Functions
+- Lists, Tuples, Dictionaries, and Sets
+- String Manipulation
+- List Comprehensions
+- Dictionary Comprehensions
+- enumerate()
+- range()
+- split()
+- Basic Problem Solving
+
+🛠️ Tools & Technologies
+
+- Python
+- VS Code
+- Git & GitHub
+
+🎯 Current Goal
+
+To become proficient in Python programming by practicing consistently every day and building real-world projects.
+
+📈 Progress
+
+✅ 14 Days of Continuous Python Learning
+
+🌱 Currently Exploring
+
+- Debugging Techniques
+- Problem Solving
+- GitHub Version Control
+- Python Projects
