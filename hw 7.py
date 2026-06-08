@@ -6,6 +6,7 @@ Perform slicing on the tuple to extract the second and third elements.
 Concatenate the tuple with another tuple.
 '''
 t=(10,20,30,40,50)
+t[0]=100 #it is not possiblle bcz tuples are immutable
 print(t[1:3])
 t1=(60,10)
 print(t+t1)
