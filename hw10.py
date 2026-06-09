@@ -36,11 +36,12 @@ if seats == 0:
      
 '''Write a program that counts down from 10 to 1 using a while loop and prints "Happy New Year!" after the countdown is over.'''
 
-
+import time
 count = 10
 
 while count >= 1:
     print(count)
+    time.sleep(1) #make the control to wait for 1 sec and then continue
     count -= 1
 
 print("Happy New Year!")               
