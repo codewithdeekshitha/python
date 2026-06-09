@@ -17,7 +17,7 @@ print(d)
 
 d["bengaluru"]="bennedose" #updating bengaluru
 print(d)
-
+del d["goa"]  #delete
 d.pop("goa")#removinge one city
 print(d)
 
