@@ -24,4 +24,13 @@ for ch in text:
     if ch.lower() in "aeiou":
         count += 1
 
-print("Number of vowels =", count)    
+print("Number of vowels =", count)  
+
+vowels="aeiou"
+s="i am a student"
+count=0
+for letter in s:
+    if letter in vowels:
+        count+=1
+print(count)        
+
