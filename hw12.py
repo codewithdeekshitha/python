@@ -24,6 +24,10 @@ students=[{"name": "Deekshitha", "age": 20, "marks": 85},
 for student in students:
   print(f"Name: {student['name']}, Age: {student['age']}, Marks: {student['marks']}")
 
+#another method
+for student in students:
+   print(student["name"] "=" student["marks"])   
+
 #Create a dictionary where the keys are Kannada cities, and the values are their populations. Use dictionary comprehension to filter out cities with populations below 10 lakhs.
 
 d={"bengaluru": 100000000,
