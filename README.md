@@ -1,93 +1,60 @@
-Python Learning Journey 🚀
+Hi, I'm Deekshitha 👋
 
-About Me
+🚀 Python Learning Journey
 
-I am currently learning Python programming and practicing coding every day to improve my problem-solving skills.
+I am a passionate Computer Science student currently learning Python and building a strong foundation in programming and AI.
 
-Topics Learned
+📚 Python Topics Learned So Far
 
-Day 1 - Day 8
+Basics
 
 - Variables and Data Types
-- Input and Output
-- Arithmetic Operators
-- Comparison Operators
-- Conditional Statements (if, else, elif)
-- Logical Operators
+- Input and Output Operations
+- Type Casting
+- Operators
+
+Control Flow
+
+- Conditional Statements (if, elif, else)
+- Loops (for, while)
+- Loop Control Statements
+
+Data Structures
+
+- Lists
+- Tuples
+- Sets
 - Dictionaries
-- Dictionary Methods
-- Practice Programs using Dictionaries
 
-Day 9
+Functions
 
-- if-else Statements
-- elif Statements
-- Logical Operators in Conditions
+- Function Definition
+- Positional Arguments
+- Keyword Arguments
+- Default Parameters
+- Return Values
+- Local and Global Variables
+- Variable-Length Arguments (*args, **kwargs)
+- Lambda Functions
+- Nested Functions
+- Recursion
 
-Day 10
+🎯 Current Goals
 
-- while Loop
-- Nested while Loop
-- if Statement inside while Loop
-- break Statement
-- continue Statement
+- Master Python Programming
+- Learn Data Structures and Algorithms
+- Explore Machine Learning and Artificial Intelligence
+- Build Real-World Projects
+- Contribute to Open Source
 
-Projects & Practice
+💡 Favorite Quote
 
-- Dictionary Programs
-- Conditional Statement Programs
-- Loop-Based Programs
-- GitHub Upload Practice
+"Every action you take is a vote for the type of person you wish to become." — James Clear, Atomic Habits
 
-Goal
+📈 Learning Progress
 
-To become proficient in Python programming by practicing consistently and building real-world projects.
+Day 16 of my Python learning journey and growing every day through consistent practice.
 
-⭐ Learning Python one day at a time.
+---
 
-
-📚 Learning Journey
-
-Day 14 of Learning Python
-
-- Learned Python Debugging
-- Used breakpoints to pause program execution
-- Traced code line by line
-- Inspected variables during debugging
-- Practiced debugging in VS Code
-
-Previously Learned
-
-- Variables and Data Types
-- Conditional Statements
-- Loops (for and while)
-- Functions
-- Lists, Tuples, Dictionaries, and Sets
-- String Manipulation
-- List Comprehensions
-- Dictionary Comprehensions
-- enumerate()
-- range()
-- split()
-- Basic Problem Solving
-
-🛠️ Tools & Technologies
-
-- Python
-- VS Code
-- Git & GitHub
-
-🎯 Current Goal
-
-To become proficient in Python programming by practicing consistently every day and building real-world projects.
-
-📈 Progress
-
-✅ 14 Days of Continuous Python Learning
-
-🌱 Currently Exploring
-
-- Debugging Techniques
-- Problem Solving
-- GitHub Version Control
-- Python Projects
+⭐ Always learning, always building.
