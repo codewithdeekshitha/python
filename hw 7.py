@@ -18,11 +18,11 @@ Find the union, intersection, and difference between the two sets.
 Add a new fruit to your set.
 Remove a fruit from your set using both remove() and discard(). What happens when the fruit doesn’t exist?
 '''
-s1={"apple","banana","goa"}
+s1={"apple","banana","goa"} #creating set
 s2={"orange","kiwi","dragon"}
-print(s1 | s2)
-print(s1 & s2)
-print(s1-s2)
+print(s1 | s2) #uniopn 
+print(s1 & s2) #and 
+print(s1-s2) #difference
 s1.add("licchi")
 print(s1)
 s1.discard("kiwi")
