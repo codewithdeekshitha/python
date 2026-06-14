@@ -5,7 +5,7 @@ Try to modify one of the elements. What happens?
 Perform slicing on the tuple to extract the second and third elements.
 Concatenate the tuple with another tuple.
 '''
-t=(10,20,30,40,50)
+t=(10,20,30,40,50) #creating tuple
 t[0]=100 #it is not possiblle bcz tuples are immutable
 print(t[1:3])
 t1=(60,10) #it just concatinates with t so o/p=10,20,30,40,50,60,10
