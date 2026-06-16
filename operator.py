@@ -33,5 +33,5 @@ print(not("d" in s1))
 # 5.bitwise operator
 a=2 #binary value:010
 b=5 #binary value:101
-print(a&b)
-print(a|b)
+print(a&b) #o/p:0
+print(a|b) #o/p:7
