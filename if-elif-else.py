@@ -2,7 +2,7 @@
 
 x=10
 if x==10:
-    print("yes x is 10")
+    print("yes x is 10") #o/p:yes x is 10
     
 x=19
 if x%2==0: #if it is even
