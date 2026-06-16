@@ -25,5 +25,5 @@ print(sum(l)) #prints the sum of l
 
 #nested list
 m=[[0,1],[2,3]] #matrix format 
-print(m[1][0])
+print(m[1][0]) #o/p:2
 
