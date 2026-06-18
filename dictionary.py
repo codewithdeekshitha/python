@@ -2,13 +2,13 @@
 
 birthday={                   #dictionary
     "darshan": "24-11-2006",    #key: value
-    "deekshitha": "20-03-2007",
-    "aishu": "17-11-2008"
+    "deekshitha": "20-03-2007", #key: value
+    "aishu": "17-11-2008"       #key: value
 }
 meaning={
     "pen": "used to write",    #key: value
-    "books": "used to read",
-    "chair": "used to sit"
+    "books": "used to read",   #key: valu 
+    "chair": "used to sit"     #key: value
 }
 print(birthday["darshan"]) #accessing dictionary
 print(birthday.get("aishu"))
