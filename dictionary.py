@@ -7,7 +7,7 @@ birthday={                   #dictionary
 }
 meaning={
     "pen": "used to write",    #key: value
-    "books": "used to read",   #key: valu 
+    "books": "used to read",   #key: value
     "chair": "used to sit"     #key: value
 }
 print(birthday["darshan"]) #accessing dictionary
