@@ -5,7 +5,7 @@ total = 0
 for num in l:
     print(total,end=" ")
     total+=num #total=total+num
-print(total)    
+print(total)  #prints the sum of elemets in l
     
 l=[1,23,43,534,32]
 dl=[]
