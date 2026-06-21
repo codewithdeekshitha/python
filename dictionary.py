@@ -25,10 +25,10 @@ print(birthday)
 #dictionary methods
 print(birthday.keys()) #to get only keys
 print(birthday.values()) #to get only valuess
-print(birthday.items())
+print(birthday.items()) #to get both key and values items() is used
 
 new_item={"bed": " used to sleep"}
-meaning.update(new_item)
+meaning.update(new_item) #updating new item
 print(meaning)
  #list cannot be used in dict but we can use int,string,float,boolean
  
